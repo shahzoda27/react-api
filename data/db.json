@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Iphone 15pro max",
+      "price": " $1199",
+      "code": 123323,
+      "brand": "Apple",
+      "model": "Mobile",
+      "description": "great"
+    },
+    {
+      "id": "2",
+      "name": "Galaxy Tab S9 Ultra",
+      "price": " $1399",
+      "code": 562323,
+      "brand": "Samsung",
+      "model": "Tablet",
+      "description": "the best"
+    }
+  ]
+}
